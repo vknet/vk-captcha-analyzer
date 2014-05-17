@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkCaptchaAnalyzer", "VkCaptchaAnalyzer\VkCaptchaAnalyzer.csproj", "{2728B3F3-27DC-48F9-A1DB-0A15899D0B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkCaptchaAnalyzer.Test", "VkCaptchaAnalyzer.Test\VkCaptchaAnalyzer.Test.csproj", "{911EA167-C05A-4E28-9E1D-E1CD6284CB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2728B3F3-27DC-48F9-A1DB-0A15899D0B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2728B3F3-27DC-48F9-A1DB-0A15899D0B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2728B3F3-27DC-48F9-A1DB-0A15899D0B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2728B3F3-27DC-48F9-A1DB-0A15899D0B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911EA167-C05A-4E28-9E1D-E1CD6284CB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911EA167-C05A-4E28-9E1D-E1CD6284CB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911EA167-C05A-4E28-9E1D-E1CD6284CB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911EA167-C05A-4E28-9E1D-E1CD6284CB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
