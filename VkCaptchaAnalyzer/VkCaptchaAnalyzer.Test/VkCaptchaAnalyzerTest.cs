@@ -1,11 +1,10 @@
-﻿using System.Drawing.Imaging;
-
-namespace VkCaptchaAnalyzer.Test
+﻿namespace VkCaptchaAnalyzer.Test
 {
     using System.Collections.Generic;
+    using System.Drawing.Imaging;
     using System.Drawing;
     using System.Linq;
-    using VkNet.Utils.Tests;
+    using FluentNUnit;
     using NUnit.Framework;
 
     [TestFixture]
